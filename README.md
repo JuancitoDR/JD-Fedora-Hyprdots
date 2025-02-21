@@ -9,7 +9,7 @@
 
 # --// Hyprdots //--
 
-### location of dots file is [here](https://github.com/Senshi111/hyprland-hyprdots-files.git) 
+### location of dots file is [here](https://github.com/JuancitoDR/Hyprdots-Fedora-JD.git) 
     
 ## My Fedora 40 Hyprland Config
 https://user-images.githubusercontent.com/106020512/235429801-e8b8dae2-c1ad-4e23-9aa2-b1edb6cabe99.mp4

@@ -2,10 +2,10 @@
 
 # install hyprdots files
 # Clone the repository
-git clone https://github.com/Senshi111/hyprland-hyprdots-files.git
+git clone https://github.com/JuancitoDR/Hyprdots-Fedora-JD.git
 
 # Move to the Scripts directory
-cd hyprland-hyprdots-files/Theme/Scripts || exit
+cd Hyprdots-Fedora-JD/Theme/Scripts || exit
 
 # Run the installation script
 ./install.sh
